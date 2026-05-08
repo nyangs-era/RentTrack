@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "510147450617",
+    "project_id": "renttrack-a6768",
+    "storage_bucket": "renttrack-a6768.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510147450617:android:17a68c02bb182ebe1cf428",
+        "android_client_info": {
+          "package_name": "com.mari.appp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9eiQLLt7Z1hg8H2DLksC4hfGxP1cTLlo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
