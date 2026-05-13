@@ -5,7 +5,10 @@ enum class ROUTES {
     ForgotPassword,
     Register,
     Onboarding,
+
     Room,
     PropertySetup,
+
+    Payment,
     Home
 }

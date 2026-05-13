@@ -74,7 +74,7 @@ dependencies {
     debugImplementation(libs.androidx.compose.ui.test.manifest)
 
 //    supabase
-    implementation(libs.postgrest.kt)
-    implementation(libs.auth.kt)
-    implementation(libs.storage.kt)
+//    implementation(libs.postgrest.kt)
+//    implementation(libs.auth.kt)
+//    implementation(libs.storage.kt)
 }
